@@ -7,7 +7,14 @@ Our proposed dataset consists of three sub-datasets, named AVIID-1, AVIID-2 and 
 ## Code of Baseline methods
 In our paer, we evaluate ten representative image-to-image methods on our AVIID datset, including Pix2Pix, BicycleGAN, CycleGAN, GCGAN, CUT, DCLGAN, UNIT, MUNIT, DRIT and MSGAN. The details of training and testing of these methods in our paer can be seen here.
 ### Requirements
-For Pix2Pix, BicycleGAN, CycleGAN, GCGAN, CUT, DCLGAN, UNIT, and MUNIT:
+**For Pix2Pix, BicycleGAN, CycleGAN, GCGAN, CUT, DCLGAN, UNIT, and MUNIT:**
 - Python 3.7 or higher 
-- Pytorch 1.8.0 or higher
-- Tensorboard, TensorboardX, Pyyaml, Pillow
+- Pytorch 1.8.0 or higher, torchvison 0.9.0 or higher
+- Tensorboard, TensorboardX, Pyyaml, Pillow, dominate, visdom
+
+**For DRIT and MSGAN:**
+- Python 3.6
+- Pytorch 0.4.0, torchvision 0.2.0
+- Tensorboard, TensorboardX
+
+
