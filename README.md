@@ -17,10 +17,16 @@ In our paer, we evaluate ten representative image-to-image methods on our AVIID 
 - Pytorch 0.4.0, torchvision 0.2.0
 - Tensorboard, TensorboardX
 ### Pix2Pix
-** Train on AVIID-1**
-** Test on AVIID-1**
-** Train on AVIID-2**
-** Test on AVIID-2**
-** Train on AVIID-3**
-** Test on AVIID-3**
+**Train on AVIID-1**
+
+**Test on AVIID-1**
+
+**Train on AVIID-2**
+
+**Test on AVIID-2**
+
+**Train on AVIID-3**
+
+**Test on AVIID-3**
+
 
