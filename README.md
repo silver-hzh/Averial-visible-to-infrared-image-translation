@@ -5,4 +5,9 @@ AVIID dataset and the code of some representative image-to-image methods for our
 
 Our proposed dataset consists of three sub-datasets, named AVIID-1, AVIID-2 and AVIID-3. The AVIID-1 contains 993 pairs of paired visible-infrared images with a resolution of 434 $\times$ 434. The AVIID-2 contains 1090 pairs of paired visible-infrared images with a resolution of 434 $\times$ 434. The AVIID-3 contains 1280 pairs of paired visible-infrared images with a resolution of 512 $\times$ 512. The targets in this datset are standard vehicles on the road, including cars, buses, vans, and urban off-road vehicles. The dataset can be downlaoded from <https://pan.baidu.com/s/1Tj-8PlsGmRlFv_zlm5Rx6Q>, the code is 41uv.
 ## Code of Baseline methods
-In our paer, we evaluate ten representative image-to-image methods on our AVIID datset, including Pix2Pix, BicycleGAN, CycleGAN, GCGAN, CUT, DCLGAN, UNIT, MUNIT, DRIT and MSGAN.  
+In our paer, we evaluate ten representative image-to-image methods on our AVIID datset, including Pix2Pix, BicycleGAN, CycleGAN, GCGAN, CUT, DCLGAN, UNIT, MUNIT, DRIT and MSGAN. The details of training and testing of these methods in our paer can be seen here.
+### Requirements
+For Pix2Pix, BicycleGAN, CycleGAN, GCGAN, CUT, DCLGAN, UNIT, and MUNIT:
+- Python 3.7 or higher 
+- Pytorch 1.8.0 or higher
+- Tensorboard, TensorboardX, Pyyaml, Pillow
