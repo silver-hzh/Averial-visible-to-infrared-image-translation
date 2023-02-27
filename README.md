@@ -30,5 +30,10 @@ Training and Testing are followed by https://github.com/JunlinHan/DCLGAN.
 Training and Testing are followed by https://github.com/taesungp/contrastive-unpaired-translation.
 ### UNIT
 Training and Testing are followed by https://github.com/mingyuliutw/UNIT.
-
+### MUNIT 
+Training and Testing are followed by https://github.com/NVlabs/MUNIT.
+### DRIT
+Training and Testing are followed by https://github.com/HsinYingLee/DRIT.
+### MSGAN
+Training and Testing are followed by https://github.com/HelenMao/MSGAN.
 
