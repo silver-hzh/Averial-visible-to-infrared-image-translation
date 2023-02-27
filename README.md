@@ -26,6 +26,8 @@ Training and Testing are followed by  https://github.com/junyanz/BicycleGAN.
 Training and Testing are followed by https://github.com/hufu6371/GcGAN. 
 ### DCLGAN
 Training and Testing are followed by https://github.com/JunlinHan/DCLGAN.
-### 
+### CUT
+Training and Testing are followed by https://github.com/taesungp/contrastive-unpaired-translation.
+### UNIT
 
 
