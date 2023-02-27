@@ -29,5 +29,6 @@ Training and Testing are followed by https://github.com/JunlinHan/DCLGAN.
 ### CUT
 Training and Testing are followed by https://github.com/taesungp/contrastive-unpaired-translation.
 ### UNIT
+Training and Testing are followed by https://github.com/mingyuliutw/UNIT.
 
 
