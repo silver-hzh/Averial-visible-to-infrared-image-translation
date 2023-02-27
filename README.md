@@ -17,6 +17,7 @@ In our paer, we evaluate ten representative image-to-image methods on our AVIID 
 - Pytorch 0.4.0, torchvision 0.2.0
 - Tensorboard, TensorboardX
 ### Pix2Pix
+Training and Testing are followed by  https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 **Train on AVIID-1**
 
 **Test on AVIID-1**
