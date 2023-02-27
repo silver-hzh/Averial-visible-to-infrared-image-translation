@@ -22,5 +22,10 @@ Training and Testing are followed by  https://github.com/junyanz/pytorch-CycleGA
 Training and Testing are followed by  https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix. 
 ### BicycleGAN 
 Training and Testing are followed by  https://github.com/junyanz/BicycleGAN. 
+### GCGAN
+Training and Testing are followed by https://github.com/hufu6371/GcGAN. 
+### DCLGAN
+Training and Testing are followed by https://github.com/JunlinHan/DCLGAN.
+### 
 
 
