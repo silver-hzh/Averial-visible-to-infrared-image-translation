@@ -37,3 +37,5 @@ Training and Testing are followed by https://github.com/HsinYingLee/DRIT.
 ### MSGAN
 Training and Testing are followed by https://github.com/HelenMao/MSGAN.
 
+## Update AVIID dataset
+More visible-infrared image pairs with more accurate registration. Link：<https://pan.baidu.com/s/1M2WlHt1qqAuQ5QnUQSQ5lw?pwd=si8j> Code: si8j 
